@@ -104,7 +104,6 @@ python
 
 Run the following commands in the VM:
 ```
-source ~/angr/bin/activate
 python
 >>> import angr
 >>>
